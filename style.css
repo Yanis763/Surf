@@ -1,0 +1,7 @@
+.jumbotron-hero{
+    background-image: url(assets/surf.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 650px;
+}
